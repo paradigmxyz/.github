@@ -12,4 +12,4 @@ This Github Organization hosts all of Paradigm's open source experiments, design
 
 Other projects we support:
 * [REVM](https://github.com/bluealloy/revm/): A blazing-fast hookable Rust EVM by [Dragan Rakita](https://github.com/rakita)
-* [Wagmi](https://wagmi.sh/): A Javascript library for web3 frontends, which provides simple hooks (e.g. useBalance) for developers to interact with Ethereum.
+* [Wagmi](https://wagmi.sh/) ([Announcement[(https://www.paradigm.xyz/2022/11/paradigm-and-wagmi)): A Javascript library for web3 frontends, which provides simple hooks (e.g. useBalance) for developers to interact with Ethereum, by [Tom Meagher](https://github.com/tmm/) and [Jake Moxey](https://github.com/jxom)
