@@ -1,7 +1,5 @@
 ![image](https://user-images.githubusercontent.com/17802178/206130033-835ac058-6795-41bb-b880-37cb698314d7.png)
 
-# Paradigm Open Source
-
 [Paradigm](https://paradigm.xyz/) is an investment firm focused on supporting the crypto/Web3 companies and protocols of tomorrow. Our approach is flexible, long term, multi-stage, and global.
 We often get involved at the earliest stages of formation and continue supporting our portfolio companies over time.
 
