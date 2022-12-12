@@ -13,4 +13,4 @@ You can find our [research at the Paradigm website](https://www.paradigm.xyz/wri
 Other projects we support:
 * [Foundry](https://github.com/foundry-rs/foundry/): A fast, portable and modular toolkit for Ethereum application development written in Rust.
 * [REVM](https://github.com/bluealloy/revm/): A blazing-fast hookable Rust EVM by [Dragan Rakita](https://github.com/rakita)
-* [Wagmi](https://wagmi.sh/) ([Announcement](https://www.paradigm.xyz/2022/11/paradigm-and-wagmi)): A Javascript library for web3 frontends, which provides simple hooks (e.g. useBalance) for developers to interact with Ethereum, by [Tom Meagher](https://github.com/tmm/) and [Jake Moxey](https://github.com/jxom)
+* [wagmi](https://wagmi.sh/) ([Announcement](https://www.paradigm.xyz/2022/11/paradigm-and-wagmi)): TypeScript Interfaces for Ethereum (including React Hooks & Vanilla JS), by [Tom Meagher](https://github.com/tmm/) and [Jake Moxey](https://github.com/jxom)
