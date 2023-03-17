@@ -8,9 +8,15 @@ to the operational (recruiting, regulatory strategy).
 
 This Github Organization hosts all of Paradigm's open source experiments, designs, and production-ready code.
 
+Among other things, we are currently building:
+* [Reth](https://github.com/paradigmxyz/reth): Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
+* [Paradigm Data Portal](https://github.com/paradigmxyz/paradigm-data-portal): A collection of open source crypto datasets for researchers and tool builders
+
 You can find our [research at the Paradigm website](https://www.paradigm.xyz/writing).
 
 Other projects we support:
 * [Foundry](https://github.com/foundry-rs/foundry/): A fast, portable and modular toolkit for Ethereum application development written in Rust.
 * [REVM](https://github.com/bluealloy/revm/): A blazing-fast hookable Rust EVM by [Dragan Rakita](https://github.com/rakita)
+* [Ethers-rs](https://github.com/ethers-rs): High quality, well-tested and documented low-level Ethereum utilities in Rust
 * [Wagmi](https://wagmi.sh/) ([Announcement](https://www.paradigm.xyz/2022/11/paradigm-and-wagmi)): A Javascript library for web3 frontends, which provides simple hooks (e.g. useBalance) for developers to interact with Ethereum, by [Tom Meagher](https://github.com/tmm/) and [Jake Moxey](https://github.com/jxom)
+* [Viem](https://viem.sh): Lightweight, composable, and type-safe modules that interface with Ethereum, optimized for frontend developers, an alternative to web3.js and ethers.js
