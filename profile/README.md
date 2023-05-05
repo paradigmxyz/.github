@@ -11,7 +11,9 @@ This Github Organization hosts all of Paradigm's open source experiments, design
 Among other things, we are currently building:
 * [Reth](https://github.com/paradigmxyz/reth): Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 * [Foundry](https://github.com/foundry-rs/foundry/): A fast, portable and modular toolkit for Ethereum application development written in Rust.
+* [Artemis](https://github.com/paradigmxyz/artemis): A simple, modular, and fast framework for writing MEV bots in Rust.
 * [Paradigm Data Portal](https://github.com/paradigmxyz/paradigm-data-portal): A collection of open source crypto datasets for researchers and tool builders
+* [Flux](https://github.com/paradigmxyz/flux): A graph-based LLM power tool for exploring many completions in parallel.
 
 You can find our [research at the Paradigm website](https://www.paradigm.xyz/writing).
 
