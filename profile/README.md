@@ -16,6 +16,7 @@ Among other things, we are currently building:
 * [Paradigm Data Portal](https://github.com/paradigmxyz/paradigm-data-portal): A collection of open source crypto datasets for researchers and tool builders
 * [Flood](https://github.com/paradigmxyz/flood/): A load testing tool for benchmarking EVM nodes over RPC.
 * [Flux](https://github.com/paradigmxyz/flux): A graph-based LLM power tool for exploring many completions in parallel.
+* [Sinker](https://github.com/paradigmxyz/sinker): Middleware to synchronize Postgres to Elasticsearch
 
 You can find our [research at the Paradigm website](https://www.paradigm.xyz/writing).
 
