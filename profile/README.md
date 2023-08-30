@@ -1,4 +1,7 @@
-![image](https://user-images.githubusercontent.com/17802178/206130033-835ac058-6795-41bb-b880-37cb698314d7.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paradigmxyz/.github/main/assets/logo-dark.svg">
+  <img alt="paradigm logo" src="https://raw.githubusercontent.com/paradigmxyz/.github/main/assets/logo-light.svg" width="auto" height="120">
+</picture>
 
 [Paradigm](https://paradigm.xyz/) is a research-driven technology investment firm. Our approach is flexible, long term, multi-stage, and global.
 We often get involved at the earliest stages of formation and continue supporting our portfolio companies over time.
@@ -24,5 +27,5 @@ You can find our [research at the Paradigm website](https://www.paradigm.xyz/wri
 Other projects we support:
 * [REVM](https://github.com/bluealloy/revm/): A blazing-fast hookable Rust EVM by [Dragan Rakita](https://github.com/rakita)
 * [Ethers-rs](https://github.com/gakonst/ethers-rs): High quality, well-tested and documented low-level Ethereum utilities in Rust
-* [Wagmi](https://wagmi.sh/) ([Announcement](https://www.paradigm.xyz/2022/11/paradigm-and-wagmi)): A Javascript library for web3 frontends, which provides simple hooks (e.g. useBalance) for developers to interact with Ethereum, by [Tom Meagher](https://github.com/tmm/) and [Jake Moxey](https://github.com/jxom)
+* [wagmi](https://wagmi.sh/) ([Announcement](https://www.paradigm.xyz/2022/11/paradigm-and-wagmi)): TypeScript Interfaces for Ethereum (including React Hooks & Vanilla JS), by [Tom Meagher](https://github.com/tmm/) and [Jake Moxey](https://github.com/jxom)
 * [Viem](https://viem.sh): Lightweight, composable, and type-safe modules that interface with Ethereum, optimized for frontend developers, an alternative to web3.js and ethers.js
