@@ -29,3 +29,4 @@ Other projects we support:
 * [Ethers-rs](https://github.com/gakonst/ethers-rs): High quality, well-tested and documented low-level Ethereum utilities in Rust
 * [wagmi](https://wagmi.sh/) ([Announcement](https://www.paradigm.xyz/2022/11/paradigm-and-wagmi)): TypeScript Interfaces for Ethereum (including React Hooks & Vanilla JS), by [Tom Meagher](https://github.com/tmm/) and [Jake Moxey](https://github.com/jxom)
 * [Viem](https://viem.sh): Lightweight, composable, and type-safe modules that interface with Ethereum, optimized for frontend developers, an alternative to web3.js and ethers.js
+* [Vocs](https://vocs.dev): Minimal Documentation Framework, powered by React + Vite.
