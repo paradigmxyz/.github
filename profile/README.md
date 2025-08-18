@@ -26,6 +26,5 @@ You can find our [research at the Paradigm website](https://www.paradigm.xyz/wri
 
 Other projects we support:
 * [REVM](https://github.com/bluealloy/revm/): A blazing-fast hookable Rust EVM by [Dragan Rakita](https://github.com/rakita)
-* [Ethers-rs](https://github.com/gakonst/ethers-rs): High quality, well-tested and documented low-level Ethereum utilities in Rust
 * [wagmi](https://wagmi.sh/) ([Announcement](https://www.paradigm.xyz/2022/11/paradigm-and-wagmi)): TypeScript Interfaces for Ethereum (including React Hooks & Vanilla JS), by [Tom Meagher](https://github.com/tmm/) and [Jake Moxey](https://github.com/jxom)
 * [Viem](https://viem.sh): Lightweight, composable, and type-safe modules that interface with Ethereum, optimized for frontend developers, an alternative to web3.js and ethers.js
