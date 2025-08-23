@@ -16,6 +16,7 @@ Among other things, we are currently building:
 * [Foundry](https://github.com/foundry-rs/foundry/): A fast, portable and modular toolkit for Ethereum application development written in Rust.
 * [Solar](https://github.com/paradigmxyz/solar/): A blazingly fast, modular and contributor friendly Solidity compiler, written in Rust.
 * [Alloy](https://github.com/alloy-rs/): High-performance, well-tested & documented libraries for interacting with Ethereum and other EVM-based chains, in Rust.
+* [Alphanet](https://github.com/paradigmxyz/alphanet): Reth AlphaNet is a testnet OP Stack-compatible rollup aimed at enabling experimentation of bleeding edge Ethereum Research.
 * [Artemis](https://github.com/paradigmxyz/artemis): A simple, modular, and fast framework for writing MEV bots in Rust.
 * [Paradigm Data Portal](https://github.com/paradigmxyz/paradigm-data-portal): A collection of open source crypto datasets for researchers and tool builders
 * [Flood](https://github.com/paradigmxyz/flood/): A load testing tool for benchmarking EVM nodes over RPC.
